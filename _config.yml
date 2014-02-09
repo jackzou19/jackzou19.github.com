@@ -11,10 +11,10 @@ pygments: true
 title : jackzou19
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : jackzou19
+  email : jackzou19@163.com
+  github : jackzou19
+  twitter : jackzou
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : jackzou19
     livefyre :
       site_id : 123
     intensedebate :
