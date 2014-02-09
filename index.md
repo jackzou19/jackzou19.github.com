@@ -5,7 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-jackzou19 在上海工作的吉安人。jackzou19@163.com 
+#jackzou19 在上海工作的吉安人。jackzou19@163.com 
 ##我发布的文章列表
 <ul class="posts">
   {% for post in site.posts %}
