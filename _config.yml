@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jackzou19
+      short_name : jackzou
     livefyre :
       site_id : 123
     intensedebate :
