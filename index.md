@@ -5,7 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-这是我用jekyll和github做的博客，用vim写的文章、非常有趣。你也可以试试。
+####这是我用jekyll和github做的博客，用vim写的文章、非常有趣。你也可以试试。
 ###文章列表
 <ul class="posts">
   {% for post in site.posts %}
